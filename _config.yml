@@ -8,6 +8,8 @@ url: "wetenrisoihafsa.github.io"
 
 # Delete the lines you don't need
 # about 5 elements are recomended
+uin suska: http://uin-suska.ac.id/
+sif uin: http://sif.uin-suska.ac.id/
 github_username:  wetenrisoihafsa
 facebook_username: wetenhafsa
 twitter_username: WetenHafsa
@@ -16,8 +18,6 @@ linkedin_username: your_linked_in_username_goes_here
 vine_username:  ywetenhafsa
 instagram_username:  wetenhafsa
 soundcloud_username:  wetenhafsa
-tumblr_username: your_tumblr_username_goes_here
-lastfm_username: your_lastfm_username_goes_here
 blog_url: "wetenrisoihafsa.blogspot.com"
 email: wetenrisoihafsa@gmail.com
 public_key_url: "https://raw.pastebin.com/LINK-TO-PUBLIC-KEY"
