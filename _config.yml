@@ -2,7 +2,7 @@
 name: Wetenrisoi Hafsa
 description: "<p>11453201944</p>
               <p>Sistem Informasi 2014</p>
-              <p>Fakultas Sains dan Teknologi</p>"
+              <p><a href="fst.uin-suska.ac.id">Fakultas Sains dan Teknologi</a></p>"
 url: "wetenrisoihafsa.github.io"
 
 
@@ -12,7 +12,7 @@ github_username:  wetenrisoihafsa
 facebook_username: wetenhafsa
 twitter_username: WetenHafsa
 google_plus_username: your_google_plus_username_goes_here
-linkedin_username: your_linked_in_username_goes_here
+linkedin_username: "http://uin-suska.ac.id"
 vine_username:  wetenhafsa
 instagram_username:  wetenhafsa
 soundcloud_username:  wetenhafsa
