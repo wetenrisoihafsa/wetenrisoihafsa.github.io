@@ -1,8 +1,8 @@
 # Site settings
 name: Wetenrisoi Hafsa
-description: "11453201944
-              <a href="http://sif.uin-suska.ac.id"> Sistem Informasi 2014 </a>
-              <a href="http://fst.uin-suska.ac.id"> Fakultas Sains dan Teknologi</a>"
+description: "<p>11453201944</p>
+              <p><a href="http://sif.uin-suska.ac.id"> Sistem Informasi 2014 </p></a>
+              <p><a href="http://fst.uin-suska.ac.id"> Fakultas Sains dan Teknologi</p></a>"
 url: "wetenrisoihafsa.github.io"
 
 
@@ -11,7 +11,7 @@ url: "wetenrisoihafsa.github.io"
 github_username:  wetenrisoihafsa
 facebook_username: wetenhafsa
 twitter_username: WetenHafsa
-google_plus_username: your_google_plus_username_goes_here
+fst.uin-suska.riau : "http://fst.uin-suska.ac.id" 
 linkedin_username: your_linked_in_username_goes_here
 vine_username:  wetenhafsa
 instagram_username:  wetenhafsa
