@@ -43,3 +43,10 @@ favicon_img_path: "imgs/favicon.ico"
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+pages_list:
+  My Teams: 'about'
+  #My Pages: 'latest-post'
+  #Timeline: 'timeline'
+  Contact: 'contact'
+ 
